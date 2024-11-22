@@ -1,3 +1,6 @@
+# Projet Final Docker k8s
+Groupe de Merwan Laakad, Antoine Richard, Arthur Dias
+
 ## Launch app
 
 1. Connect to Minikube's Docker daemon:
